@@ -1,18 +1,8 @@
 # Workout Tracker
   ## README created by: MrBusiness87
-  
 
-  
-  
-  
-  
   ![](https://img.shields.io/badge/license-NONE-lightgrey)
   
-
-  ![GIF](#link for GIF#)
-  [Video LINK](#link to website video#)
-  
-
   ---
   ## Table of Contents:
   * [Title](#Title)
