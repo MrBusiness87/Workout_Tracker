@@ -19,6 +19,3 @@ require("./routes/html")(Workout);
 Workout.listen(PORT,function(){ 
     console.log(`App listening on Port ${PORT}`);
 });
-
-
-// var MONGODB_URI = "mongodb+srv://ESROMER:Bosnia32@cluster0.li8im.mongodb.net/workout?retryWrites=true&w=majority"
